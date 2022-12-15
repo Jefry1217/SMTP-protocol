@@ -1,0 +1,2 @@
+server_port=1026
+inbox_path=~/Desktop/postman-impersonation/storage
